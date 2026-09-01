@@ -1,1 +1,34 @@
+FRAUD DETECTION & TRANSACTION RISK ANALYSIS
+Business Questions — Key Results
 
+BQ1 — Overall Fraud Rate
+Analysis: Overall fraud rate
+Key Result: 0.15%
+
+BQ2 — Fraud Transaction Value
+Analysis: Fraud transaction value
+Key Result: 37,143.72
+
+BQ3 — Fraud by Transaction Type
+Analysis: Fraud by transaction type
+Key Result: Purchase — 0.14%, Transfer — 100%
+
+BQ4 — Fraud by Merchant Category
+Analysis: Fraud by merchant category
+Key Result: Online marketplace — 0.21%
+
+BQ5 — Fraud by Country
+Analysis: Fraud by country
+Key Result: Fraud rates ranged from 0.14% to 0.16%
+
+BQ6 — Fraud vs Non-Fraud Amounts
+Analysis: Fraud vs Non-Fraud transaction amounts
+Key Result: Fraud — 24.93, Non-Fraud — 38.22
+
+BQ7 — Fraud Activity Over Time
+Analysis: Fraud activity over time
+Key Result: 106–142 fraudulent transactions per month after November 2024
+
+BQ8 — Most Common Fraud Types
+Analysis: Most common fraud types
+Key Result: Card testing — 53.69%
