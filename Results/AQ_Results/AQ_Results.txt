@@ -1,1 +1,39 @@
+AQ1 — Priority Risk
+Result: No rows returned.
+Key finding: No merchant category had both above-average fraud volume and above-average fraud rate.
 
+AQ2 — Fraud Contribution
+Result:
+Fashion — 165 fraudulent transactions — 11.07%
+Entertainment — 164 — 11.01%
+Electronics — 160 — 10.74%
+Pharmacy — 158 — 10.60%
+Utilities — 155 — 10.40%
+Key finding: Top 5 categories contributed 53.82% of all fraudulent transactions.
+
+AQ3 — Fraud Concentration
+Result:
+Top 5 categories — 53.82%
+Top 8 categories — 82.41%
+Key finding: Fraud is relatively distributed across merchant categories.
+
+AQ4 — Unusual Fraud Periods
+Result:
+2024-11 — 127
+2024-12 — 127
+2025-01 — 142
+2025-03 — 132
+2025-05 — 117
+2025-06 — 128
+2025-07 — 131
+2025-08 — 127
+2025-09 — 119
+2025-10 — 119
+Key finding: January 2025 had the highest above-average fraud volume with 142 fraudulent transactions.
+
+AQ5 — Risk Classification
+Result:
+Transfer — 100.00% — High Risk
+Online marketplace — 0.21% — Medium Risk
+Other categories — Low Risk
+Key finding: Transfer is classified as High Risk but should be interpreted cautiously because it has only 80 transactions.
