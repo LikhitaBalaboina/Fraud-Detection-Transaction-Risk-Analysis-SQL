@@ -84,3 +84,25 @@ The project includes the following SQL analysis:
 - Investigate months with above-average fraud activity to identify potential changes in transaction behavior or fraud patterns.
 - Strengthen controls against card testing because it represents the largest share of identified fraud types.
 - Use transaction-level and category-level risk indicators to support ongoing fraud monitoring and investigation.
+
+
+  ## Project Structure
+
+```text
+Fraud-Detection-Transaction-Risk-Analysis-SQL/
+│
+├── README.md
+│
+├── SQL/
+│   ├── 01_Data_Quality_Checks.sql
+│   ├── 02_EDA.sql
+│   ├── 03_Fraud_Analysis.sql
+│   ├── 04_Business_Questions.sql
+│   └── 05_Advanced_SQL.sql
+│
+└── Results/
+    ├── BQ_Results/
+    │   └── BQ_Results.txt
+    │
+    └── AQ_Results/
+        └── AQ_Results.txt
